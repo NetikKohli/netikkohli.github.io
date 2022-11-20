@@ -1,0 +1,32 @@
+
+body{
+    width: auto;
+   /* max-height: fit-content; */
+    word-wrap:inherit;
+}
+
+header{
+    background-color: rgb(147, 90, 4);
+}
+
+table ,th ,td{
+    border: 1px solid;
+}
+#harshit{
+    color: rgb(160, 249, 104);
+}
+
+form,div {
+    font-size: 30px;
+    width:100%;
+}
+
+#kohli{
+    color:rgba(36, 32, 236, 0.8);
+    margin-top: 200px;
+    font-size: xx-large;
+}
+input {
+    border: 1px solid;
+    margin-left: 30px;
+}
